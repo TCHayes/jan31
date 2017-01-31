@@ -1,8 +1,3 @@
-/*
-
-
-
-*/
 
 function createGreeter (greeting) {
   return function(name){
